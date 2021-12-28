@@ -3,8 +3,8 @@
 
 ## I'm a Software engineering student from Finland!
 
-- ⚡ I’m currently learning IoT, Python, PHP, C#, React, Websockets
-- ⚡ 2021 Goals: Build my own smart home enviroment from scratch!
+- ⚡ I’m currently learning  React & React Native, Python & C#  
+- ⚡ 2021 Goals: Build my own smart home enviroment from scratch! #Done
 - ⚡ 2022 Goals: AI, Open Source projects, Finding an interesting company to work for!  
 - ⚡ Fun fact: I love to make stuff myself, from building houses to building software, everything!  
 
