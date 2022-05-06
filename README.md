@@ -1,10 +1,10 @@
-### Hi there, I'm Toni Henriksson 👋
+# Hi there, I'm Toni Henriksson 👋
 
 
 ## I'm a Software engineering student from Finland!
 
-## This is my personal github profile that i use for personal projects when i have the time. 
-## Most of my time at the moment goes to school projects and for that i use separate gitlab account.
+### This is my personal github profile that i use for personal projects when i have the time. 
+### Most of my time at the moment goes to school projects and for that i use separate gitlab account.
 
 - ⚡ I’m currently learning  React & React Native, Python & Java  
 - ⚡ 2021 Goals: Build my own smart home enviroment from scratch! #Done
