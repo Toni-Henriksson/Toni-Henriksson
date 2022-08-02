@@ -3,6 +3,8 @@
 
 ## I'm a Software engineering student from Finland!
 
+## I keep my most recent work in the pinned section of my github page, my repos might have really old stuff in there.
+
 
 ### Connect with me:
 
