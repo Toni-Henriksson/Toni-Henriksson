@@ -1,7 +1,7 @@
 # Hi there, I'm Toni Henriksson 👋
 
 
-## I'm a Software engineering student from Finland!
+## I'm a professional web developer / Software engineering student from Finland!
 
 ## I keep my most recent work in the pinned section of my github page, my repos might have really old stuff in there.
 
